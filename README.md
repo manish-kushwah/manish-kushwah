@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Hey 👋, I'm Manish! 
-
-<br/>
+### Hey 👋, I'm Manish!
+<br />
 <a href="https://www.instagram.com/maniish_kushwah/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -27,7 +26,9 @@ Here are some ideas to get you started:
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+
 <br />
+
 <img align="right" alt="GIF" width="480" height="280" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 ### I'm a young coder, learner and a mid-night geek from India.
@@ -56,4 +57,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.clipart.email/2483a64ba9ab3f2b415e8b96a048ea33_bootstrap-social-media-icons-html-css-js-logo-png-image-with-_840-859.png"></code>
 <code><img height="20" src="https://www.pragimtech.com/wp-content/uploads/2019/04/MSSQLServer.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
+
 <br />
+<!-- 
+![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manish-kushwah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=30&hide=[%22contribs%22,%22prs%22]) 
+-->
